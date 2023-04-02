@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ExpoRN200Js",
+    "slug": "ExpoRN200Js",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
